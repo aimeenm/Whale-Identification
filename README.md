@@ -5,6 +5,12 @@ https://www.kaggle.com/c/humpback-whale-identification
 
 To Do List:
 
+-Learn Basic OpenCV
+-Be able to identify if a photo contains a whale tail
+-isolate the whale tail
+-analyze that whale tail
+
+
 Find someone that knows what they are doing 
 Look up tutorials on computer vision
 Look up tutorials on computer image recognition
