@@ -1,12 +1,15 @@
 Topic: Whale Identification
-
 https://www.kaggle.com/c/humpback-whale-identification
 
+
+Resources:
+- https://scikit-learn.org/stable/
+- https://www.learnopencv.com/image-recognition-and-object-detection-part1/
 
 To Do List:
 
 - Learn Basic OpenCV
-- Be able to identify if a photo contains a whale tail
+- Be able to identify if a photo contains a whale tail (object detection)
 - isolate the whale tail
 - analyze that whale tail
 
