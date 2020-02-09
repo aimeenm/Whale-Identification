@@ -5,6 +5,8 @@ https://www.kaggle.com/c/humpback-whale-identification
 ### Resources:
 - https://scikit-learn.org/stable/
 - https://www.learnopencv.com/image-recognition-and-object-detection-part1/
+- https://docs.opencv.org/master/db/d28/tutorial_cascade_classifier.html
+- https://docs.opencv.org/master/dc/d88/tutorial_traincascade.html
 
 ### To Do List:
 - Learn Basic OpenCV
