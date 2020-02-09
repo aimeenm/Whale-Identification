@@ -23,4 +23,4 @@ https://www.kaggle.com/c/humpback-whale-identification
 - Understand basic ML concepts
 - Become better at git
 
-
+hi
